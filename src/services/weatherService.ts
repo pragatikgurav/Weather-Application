@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API_KEY = "dcabd3ec707ae1d77fb925e44a35ef65";
-const BASE_URL = "http://api.weatherstack.com/current";
+const PROXY = "https://api.allorigins.win/raw?url=";
 
 export interface WeatherData {
   city: string;
@@ -15,12 +15,9 @@ export interface WeatherData {
 }
 
 export const fetchWeather = async (city: string): Promise<WeatherData> => {
-  const response = await axios.get(BASE_URL, {
-    params: {
-      access_key: API_KEY,
-      query: city,
-    },
-  });
+  // Build the full Weatherstack URL, then wrap it in the CORS proxy
+  const targetUrl = `http://api.weatherstack.com/current?access_key=${API_KEY}&query=${encodeURIComponent(city)}`;
+  const response = await axios.get(PROXY + encodeURIComponent(targetUrl));
 
   const data = response.data;
 
