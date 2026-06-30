@@ -1,6 +1,6 @@
-# 🌤️ WeatherApp
+# 🌤️ WeatherNow
 
-An elegant, real-time weather tracking dashboard designed to deliver precise meteorological insights with a beautiful, modern interface. Built using cutting-edge frontend technologies for exceptional speed, fluid transitions, and complete responsive layout control.
+A sleek, real-time weather tracking dashboard designed to deliver precise meteorological insights through a beautiful, modern interface. Built using modern frontend architectures for rapid feedback loops, fluid layouts, and complete cross-platform responsiveness.
 
 <div align="left">
   <a href="https://id-preview--4d7cb0ef-8342-490d-a514-d618abeda8cc.lovable.app/login" target="_blank">
@@ -12,28 +12,30 @@ An elegant, real-time weather tracking dashboard designed to deliver precise met
 
 ## 📸 Preview Gallery
 
-Explore the application's clean design system, fluid animation states, and data visualization tools across multiple responsive layouts.
+Explore the layout design, authentication gates, empty states, and dynamic metric visualizations rendered directly from your specific workflows.
 
-| 1. Authentication & Onboarding | 2. Main Weather Dashboard |
+### 🔐 Authentication Flow
+
+| Sign In Screen | Create Account Screen |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/a1a11984-7516-4533-885c-4bbcc3221711" width="340" alt="Secure Login Screen" /> | <img src="https://github.com/user-attachments/assets/bbab5390-d539-42ea-84d1-36a5de142364" width="340" alt="Dashboard Main Feed" /> |
-| *Streamlined portal entrance for user management.* | *Comprehensive dashboard view showcasing live local forecasts and metrics.* |
+| <img src="Screenshot 2026-06-30 222522.png" width="340" alt="Screenshot 2026-06-30 222522.png" /> | <img src="Screenshot 2026-06-30 222530.png" width="340" alt="Screenshot 2026-06-30 222530.png" /> |
+| *Streamlined sign-in gateway featuring context-aware error handling layout.* | *Responsive user registration system built with state validated forms.* |
 
-| 3. Detailed Metrics & Analytics | 4. Mobile Layout Optimization |
+### 📊 Dashboard & Analytics
+
+| Portal Initial Search State | Live Weather Metrics Display |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/bbab5390-d539-42ea-84d1-36a5de142364" width="340" alt="Detailed Weather Metrics" /> | <img src="https://github.com/user-attachments/assets/a1a11984-7516-4533-885c-4bbcc3221711" width="340" alt="Mobile UI Viewport" /> |
-| *Deep-dive breakdowns including UV index, humidity, and pressure cards.* | *Fluid, touch-optimized design for real-time weather tracking on small screens.* |
-
-> 💡 *Note: Swap out the sample image URLs above with your unique GitHub asset handles as you capture updated views of your app.*
+| <img src="Screenshot 2026-06-30 222646.png" width="480" alt="Screenshot 2026-06-30 222646.png" /> | <img src="Screenshot 2026-06-30 222834.png" width="480" alt="Screenshot 2026-06-30 222834.png" /> |
+| *Clean landing state welcoming city input alongside responsive global logout navigation controls.* | *Live weather evaluation highlighting temperature data, wind speed vectors, metrics, and humidity cards.* |
 
 ---
 
 ## ✨ Core Features
 
-* **Real-Time Forecasting:** Instantly fetch and update current meteorological data, hourly forecasts, and weekly outlooks.
-* **Smart Location Search:** Deep-dive search engine allowing users to look up and track weather parameters globally.
-* **Advanced Metric Analytics:** High-visibility data cards showcasing humidity levels, wind speed, UV index, and atmospheric pressure.
-* **Fluid Layout System:** Clean responsive component layout with touch-optimized controls tailored with beautiful modern accents.
+* **Real-Time Forecasting Matrix:** Instantly parse weather states across microclimates with fluid UI updates.
+* **Smart Search Bar Integration:** Intuitive query inputs capable of looking up targets across universal global databases.
+* **Granular Meteorological Analytics:** High-fidelity tracking elements focusing on real-feel indexes, localized wind velocity vectors ($km/h$), and humidity data modules.
+* **Responsive Visual Hierarchy:** Polished typography paired with vibrant atmospheric badges configured to change dynamically based on conditions.
 
 ---
 
