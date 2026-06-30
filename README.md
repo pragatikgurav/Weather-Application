@@ -1,6 +1,6 @@
 # 🌤️ WeatherNow
 
-A sleek, real-time weather tracking dashboard designed to deliver precise meteorological insights through a beautiful, modern interface. Built using modern frontend architectures for rapid feedback loops, fluid layouts, and complete cross-platform responsiveness.
+An elegant, real-time weather tracking application designed to deliver precise meteorological insights through a beautiful, fluid glassmorphism interface. Built with modern frontend tools for instant feedback, clean layout flow, and complete responsive control.
 
 <div align="left">
   <a href="https://id-preview--4d7cb0ef-8342-490d-a514-d618abeda8cc.lovable.app/login" target="_blank">
@@ -10,32 +10,23 @@ A sleek, real-time weather tracking dashboard designed to deliver precise meteor
 
 ---
 
-## 📸 Preview Gallery
+## 📸 Interface Showcase
 
-Explore the layout design, authentication gates, empty states, and dynamic metric visualizations rendered directly from your specific workflows.
+Explore the unified visual ecosystem of WeatherNow—featuring clean authorization gates, initial search empty states, and detailed condition reporting templates.
 
-### 🔐 Authentication Flow
-
-| Sign In Screen | Create Account Screen |
-| :---: | :---: |
-| <img src="Screenshot 2026-06-30 222522.png" width="340" alt="Screenshot 2026-06-30 222522.png" /> | <img src="Screenshot 2026-06-30 222530.png" width="340" alt="Screenshot 2026-06-30 222530.png" /> |
-| *Streamlined sign-in gateway featuring context-aware error handling layout.* | *Responsive user registration system built with state validated forms.* |
-
-### 📊 Dashboard & Analytics
-
-| Portal Initial Search State | Live Weather Metrics Display |
-| :---: | :---: |
-| <img src="Screenshot 2026-06-30 222646.png" width="480" alt="Screenshot 2026-06-30 222646.png" /> | <img src="Screenshot 2026-06-30 222834.png" width="480" alt="Screenshot 2026-06-30 222834.png" /> |
-| *Clean landing state welcoming city input alongside responsive global logout navigation controls.* | *Live weather evaluation highlighting temperature data, wind speed vectors, metrics, and humidity cards.* |
+<div align="center">
+  <img src="watermarked_img_16824709447954470822.png" width="100%" alt="WeatherNow Application Preview" />
+  <p><i>Comprehensive view showcasing Secure Sign-In, Account Registration, Location Search Engine, and Real-Time Forecasting Dashboard layouts.</i></p>
+</div>
 
 ---
 
 ## ✨ Core Features
 
-* **Real-Time Forecasting Matrix:** Instantly parse weather states across microclimates with fluid UI updates.
-* **Smart Search Bar Integration:** Intuitive query inputs capable of looking up targets across universal global databases.
-* **Granular Meteorological Analytics:** High-fidelity tracking elements focusing on real-feel indexes, localized wind velocity vectors ($km/h$), and humidity data modules.
-* **Responsive Visual Hierarchy:** Polished typography paired with vibrant atmospheric badges configured to change dynamically based on conditions.
+* **Real-Time Forecasting Matrix:** Instantly parse weather states across global cities with smooth, real-time data updates.
+* **Modern Glassmorphism UI:** A polished, translucent component layout paired with vibrant atmospheric badges tailored to reflect current weather conditions.
+* **Granular Meteorological Analytics:** High-visibility metric modules showcasing ambient temperature, real-feel indexes, humidity metrics ($94\%$), and wind velocity vectors ($23\text{ km/h}$).
+* **Seamless Authentication Gateways:** Clean input form fields equipped with state validation controls for user signup and secure entry.
 
 ---
 
