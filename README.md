@@ -3,7 +3,8 @@
 An elegant, real-time weather tracking application designed to deliver precise meteorological insights through a beautiful, fluid glassmorphism interface. Built with modern frontend tools for instant feedback, clean layout flow, and complete responsive control.
 
 <div align="left">
-  <a href="https://id-preview--4d7cb0ef-8342-490d-a514-d618abeda8cc.lovable.app/login" target="_blank">
+  <a href="<img width="1540" height="688" alt="Gemini_Generated_Image_wlyb9gwlyb9gwlyb" src="https://github.com/user-attachments/assets/7d9a9518-96c0-48d9-aadc-1d1a1e94f7b6" />
+">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20App-blueviolet?style=for-the-badge&logo=vercel" alt="Live Demo" />
   </a>
 </div>
