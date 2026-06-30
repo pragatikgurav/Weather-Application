@@ -15,7 +15,8 @@ An elegant, real-time weather tracking application designed to deliver precise m
 Explore the unified visual ecosystem of WeatherNow—featuring clean authorization gates, initial search empty states, and detailed condition reporting templates.
 
 <div align="center">
-  <img src="watermarked_img_16824709447954470822.png" width="100%" alt="WeatherNow Application Preview" />
+  <img src="<img width="1540" height="688" alt="Gemini_Generated_Image_wlyb9gwlyb9gwlyb" src="https://github.com/user-attachments/assets/eb112e5d-efa0-4159-81b5-53480b75ff04" />
+" />
   <p><i>Comprehensive view showcasing Secure Sign-In, Account Registration, Location Search Engine, and Real-Time Forecasting Dashboard layouts.</i></p>
 </div>
 
