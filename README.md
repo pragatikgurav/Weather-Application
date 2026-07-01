@@ -46,28 +46,6 @@ Search weather information from anywhere in the world with a beautiful Glassmorp
 
 </div>
 
----
-
-# 📑 Table of Contents
-
-- About
-- Screenshots
-- Features
-- Tech Stack
-- Folder Structure
-- Installation
-- Environment Variables
-- Usage
-- Workflow
-- Responsive Design
-- Performance
-- Security
-- Future Improvements
-- Roadmap
-- Contributing
-- License
-- Author
-- Support
 
 ---
 
@@ -109,17 +87,6 @@ Weather Application delivers instant weather information inside a beautiful mode
 
 ✔ High Performance
 
----
-
-## 🌎 Real World Use Cases
-
-- Travelers
-- Students
-- Farmers
-- Daily Weather Updates
-- Event Planning
-- Outdoor Activities
-- Tourism
 
 ---
 
@@ -129,7 +96,8 @@ Weather Application delivers instant weather information inside a beautiful mode
 
 ## 🔐 Login Page
 
-<img src="./screenshots/login.png" width="95%">
+<img src="<img width="797" height="792" alt="Screenshot 2026-06-30 222522" src="https://github.com/user-attachments/assets/9ef5f8f6-ac6e-4510-a931-8026adb358ea" />
+">
 
 Elegant Login Screen with Secure Authentication
 
@@ -139,7 +107,8 @@ Elegant Login Screen with Secure Authentication
 
 ## 👤 Registration Page
 
-<img src="./screenshots/signup.png" width="95%">
+<img src="<img width="780" height="767" alt="Screenshot 2026-06-30 222530" src="https://github.com/user-attachments/assets/8f3193b5-aca9-4e5f-a89a-5ae2c751e910" />
+">
 
 Create Account Interface
 
@@ -149,7 +118,8 @@ Create Account Interface
 
 ## 🔍 Search Dashboard
 
-<img src="./screenshots/dashboard.png" width="95%">
+<img src="<img width="1918" height="473" alt="Screenshot 2026-06-30 222646" src="https://github.com/user-attachments/assets/022d36b8-1312-415c-a76d-19ec8a5f3d47" />
+">
 
 Search Any City Instantly
 
@@ -159,7 +129,8 @@ Search Any City Instantly
 
 ## 🌤️ Weather Result
 
-<img src="./screenshots/weather.png" width="95%">
+<img src="<img width="1903" height="850" alt="Screenshot 2026-06-30 222834" src="https://github.com/user-attachments/assets/44ea3ce4-864a-4220-8df1-b2f93aa44ade" />
+">
 
 Beautiful Weather Information Card
 
@@ -167,33 +138,6 @@ Beautiful Weather Information Card
 
 ---
 
-# ✨ Features
-
-- 🌍 Global Weather Search
-- 🔍 Instant Search
-- 🌤 Live Weather Information
-- 🌡 Current Temperature
-- 💨 Wind Speed
-- 💧 Humidity
-- 🌡 Feels Like Temperature
-- ☁ Weather Condition
-- 📍 City Based Search
-- ⚡ Lightning Fast API
-- 🎨 Premium Glassmorphism UI
-- 🔐 Login System
-- 👤 Registration System
-- 📱 Fully Responsive
-- 🌙 Dark Theme
-- 🚀 High Performance
-- 📊 Interactive Dashboard
-- ⚙ Clean Code Structure
-- 🔄 Real-Time Updates
-- 🌐 REST API Integration
-- 💻 Cross Browser Support
-- ♿ Accessibility Friendly
-- 🎯 Modern User Experience
-
----
 
 # 🛠 Tech Stack
 
@@ -260,16 +204,6 @@ npm run dev
 
 ---
 
-# 🔑 Environment Variables
-
-Create `.env`
-
-```env
-VITE_WEATHER_API_KEY=YOUR_API_KEY
-```
-
----
-
 # 🚀 Usage
 
 1. Register an Account
@@ -309,38 +243,6 @@ Display Weather Card
 
 ---
 
-# 📱 Responsive Design
-
-| Device | Supported |
-|---------|-----------|
-| Desktop | ✅ |
-| Laptop | ✅ |
-| Tablet | ✅ |
-| Mobile | ✅ |
-
----
-
-# ⚡ Performance
-
-- Fast Loading
-- Optimized API Calls
-- Responsive Rendering
-- Lightweight Build
-- Efficient Components
-- Smooth User Experience
-
----
-
-# 🔒 Security
-
-- Authentication
-- Protected Routes
-- Secure API Requests
-- Environment Variables
-- Input Validation
-
----
-
 # 🚀 Future Improvements
 
 - 7-Day Forecast
@@ -358,101 +260,6 @@ Display Weather Card
 - Charts
 - PWA Support
 - Offline Mode
-
----
-
-# 🛣 Roadmap
-
-- [x] Authentication
-- [x] Weather Search
-- [x] Responsive Design
-- [x] Glassmorphism UI
-- [x] REST API
-- [ ] Forecast Module
-- [ ] Maps
-- [ ] Weather Alerts
-- [ ] PWA
-- [ ] Multi Language
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork Repository
-
-2. Create Branch
-
-3. Commit Changes
-
-4. Push Branch
-
-5. Open Pull Request
-
----
-
-# 📜 License
-
-Distributed under the MIT License.
-
----
-
-# 👩‍💻 Author
-
-<div align="center">
-
-## Pragati Gurav
-
-🎓 BE Student (2026)
-
-💻 Java Full Stack Developer
-
-🌤 React Developer
-
-📧 your-email@example.com
-
-🌐 Portfolio
-
-💼 LinkedIn
-
-🐙 GitHub
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOURPROFILE">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# ⭐ Support
-
-If you like this project, please
-
-⭐ Star the Repository
-
-🍴 Fork the Project
-
-🐞 Report Issues
-
-💡 Suggest New Features
 
 ---
 
