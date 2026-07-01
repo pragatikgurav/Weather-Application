@@ -1,169 +1,178 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F4C81,100:2563EB&text=🌤️%20Weather%20Application&fontAlignY=40&fontColor=ffffff&fontSize=52&desc=Modern%20Real-Time%20Weather%20Forecast%20Web%20Application&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:111827,100:2563EB&text=🌤️%20Weather%20Application&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=Modern%20Real-Time%20Weather%20Forecast%20Platform&descAlignY=62&animation=fadeIn"/>
 
 # 🌤️ Weather Application
 
-### Modern • Responsive • Secure • Real-Time Weather Forecast Platform
-
-Search weather information from anywhere in the world with a beautiful Glassmorphism UI.
+### ⚡ Modern • Elegant • Responsive • Secure • Real-Time Weather Dashboard
 
 <p align="center">
+
+A beautiful weather forecasting application built with modern web technologies that delivers real-time weather information with an elegant Glassmorphism UI and lightning-fast performance.
+
+</p>
+
+<br>
 
 <a href="https://id-preview--4d7cb0ef-8342-490d-a514-d618abeda8cc.lovable.app/login">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-1DA1F2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Open_Project-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
 </a>
 
-</p>
+</div>
+
+---
+
+# 🌌 About The Project
+
+Weather Application is a sleek and responsive weather dashboard designed to provide accurate weather forecasts from anywhere in the world.
+
+Built using **React + TypeScript + Tailwind CSS**, the application offers a smooth user experience with secure authentication, fast search functionality, and an attractive glassmorphism interface.
+
+---
+
+# ✨ Features
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌍 Global Weather
+
+✔ Search any city worldwide
+
+✔ Live Weather Information
+
+✔ Accurate Forecast
+
+✔ Dynamic Weather Updates
+
+</td>
+
+<td width="50%">
+
+### 🎨 Modern UI
+
+✔ Glassmorphism Design
+
+✔ Responsive Layout
+
+✔ Dark Theme
+
+✔ Smooth Animations
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🔐 Authentication
+
+✔ Login
+
+✔ Register
+
+✔ Protected Routes
+
+✔ Secure Access
+
+</td>
+
+<td>
+
+### ⚡ Performance
+
+✔ Fast API Calls
+
+✔ Optimized Components
+
+✔ Lightweight Design
+
+✔ Mobile Friendly
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🖥️ Application Preview
+
+## 🔐 Login Screen
 
 <p align="center">
 
-<img src="https://img.shields.io/github/stars/USERNAME/Weather-Application?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/forks/USERNAME/Weather-Application?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/license/USERNAME/Weather-Application?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/issues/USERNAME/Weather-Application?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/last-commit/USERNAME/Weather-Application?style=for-the-badge"/>
-
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge"/>
+<img src="https://github.com/user-attachments/assets/9ef5f8f6-ac6e-4510-a931-8026adb358ea" width="900"/>
 
 </p>
 
-</div>
-
 ---
 
-# 🚀 Live Demo
+## 👤 Registration
 
-<div align="center">
+<p align="center">
 
-### 🌐 Click below to explore the application
+<img src="https://github.com/user-attachments/assets/8f3193b5-aca9-4e5f-a89a-5ae2c751e910" width="900"/>
 
-## **👉 https://id-preview--4d7cb0ef-8342-490d-a514-d618abeda8cc.lovable.app/login**
-
-</div>
-
-
----
-
-# 🌍 About The Project
-
-## 📖 Overview
-
-Weather Application is a modern weather forecasting platform built using React, TypeScript, Tailwind CSS and Weather APIs.
-
-It provides real-time weather information with a premium Glassmorphism interface, secure authentication, lightning-fast search, and responsive layouts across all devices.
-
----
-
-## ❓ Problem
-
-Most weather websites are cluttered with ads and poor user experiences.
-
----
-
-## 💡 Solution
-
-Weather Application delivers instant weather information inside a beautiful modern dashboard.
-
----
-
-## 🎯 Benefits
-
-✔ Real-Time Data
-
-✔ Fast Search
-
-✔ Responsive Design
-
-✔ Secure Authentication
-
-✔ Modern UI
-
-✔ Easy Navigation
-
-✔ High Performance
-
-
----
-
-# 📸 Application Screenshots
-
-<div align="center">
-
-## 🔐 Login Page
-
-<img src="<img width="797" height="792" alt="Screenshot 2026-06-30 222522" src="https://github.com/user-attachments/assets/9ef5f8f6-ac6e-4510-a931-8026adb358ea" />
-">
-
-Elegant Login Screen with Secure Authentication
-
-<br><br>
-
----
-
-## 👤 Registration Page
-
-<img src="<img width="780" height="767" alt="Screenshot 2026-06-30 222530" src="https://github.com/user-attachments/assets/8f3193b5-aca9-4e5f-a89a-5ae2c751e910" />
-">
-
-Create Account Interface
-
-<br><br>
+</p>
 
 ---
 
 ## 🔍 Search Dashboard
 
-<img src="<img width="1918" height="473" alt="Screenshot 2026-06-30 222646" src="https://github.com/user-attachments/assets/022d36b8-1312-415c-a76d-19ec8a5f3d47" />
-">
+<p align="center">
 
-Search Any City Instantly
+<img src="https://github.com/user-attachments/assets/022d36b8-1312-415c-a76d-19ec8a5f3d47" width="1000"/>
 
-<br><br>
+</p>
 
 ---
 
 ## 🌤️ Weather Result
 
-<img src="<img width="1903" height="850" alt="Screenshot 2026-06-30 222834" src="https://github.com/user-attachments/assets/44ea3ce4-864a-4220-8df1-b2f93aa44ade" />
-">
+<p align="center">
 
-Beautiful Weather Information Card
+<img src="https://github.com/user-attachments/assets/44ea3ce4-864a-4220-8df1-b2f93aa44ade" width="1000"/>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,html,css,javascript,nodejs,git,github,vscode"/>
 
 </div>
 
 ---
 
+# 🛠 Built With
 
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,html,css,js,git,github,vscode"/>
-
-</p>
-
-| Technology | Usage |
-|------------|------|
-| React | Frontend |
-| TypeScript | Development |
-| Tailwind CSS | Styling |
-| Vite | Build Tool |
-| Axios | API Requests |
-| Weather API | Weather Data |
-| REST API | Backend Communication |
-| Git | Version Control |
-| GitHub | Repository |
+| Technology | Description |
+|------------|-------------|
+| ⚛ React | Frontend Framework |
+| 🔷 TypeScript | Type Safety |
+| ⚡ Vite | Build Tool |
+| 🎨 Tailwind CSS | Styling |
+| 🌦 Weather API | Weather Data |
+| 🔄 Axios | API Requests |
+| 🔐 Authentication | User Login |
+| 🗂 Git | Version Control |
+| ☁ GitHub | Repository Hosting |
 
 ---
 
-# 📂 Folder Structure
+# 📂 Project Structure
 
-```
+```text
 Weather-Application
 │
 ├── public
@@ -171,20 +180,16 @@ Weather-Application
 ├── src
 │   ├── assets
 │   ├── components
-│   ├── pages
+│   ├── context
 │   ├── hooks
+│   ├── pages
 │   ├── services
 │   ├── utils
-│   ├── context
-│   └── App.tsx
-│
-├── screenshots
-│   ├── login.png
-│   ├── signup.png
-│   ├── dashboard.png
-│   └── weather.png
+│   ├── App.tsx
+│   └── main.tsx
 │
 ├── package.json
+├── vite.config.ts
 └── README.md
 ```
 
@@ -193,84 +198,103 @@ Weather-Application
 # ⚙ Installation
 
 ```bash
-git clone https://github.com/USERNAME/Weather-Application.git
+# Clone Repository
+
+git clone https://github.com/YOUR_USERNAME/Weather-Application.git
+
+# Navigate
 
 cd Weather-Application
 
+# Install Dependencies
+
 npm install
+
+# Run Project
 
 npm run dev
 ```
 
 ---
 
-# 🚀 Usage
-
-1. Register an Account
-
-2. Login
-
-3. Search Your City
-
-4. Click Search
-
-5. View Live Weather
-
-6. Explore Dashboard
-
----
-
-# 🔄 Project Workflow
+# 🌍 Workflow
 
 ```text
-User Login
-      │
-      ▼
-Authentication
-      │
-      ▼
-Search City
-      │
-      ▼
-Weather API
-      │
-      ▼
-Receive Data
-      │
-      ▼
-Display Weather Card
+        👤 User
+
+          │
+
+          ▼
+
+     Login/Register
+
+          │
+
+          ▼
+
+     Search City
+
+          │
+
+          ▼
+
+   Weather API Request
+
+          │
+
+          ▼
+
+ Receive Live Weather
+
+          │
+
+          ▼
+
+ Beautiful Weather Card
 ```
 
 ---
 
-# 🚀 Future Improvements
+# 📊 Project Highlights
 
-- 7-Day Forecast
-- Hourly Forecast
-- Air Quality
-- UV Index
-- Weather Maps
-- Favorite Cities
-- Location Detection
-- Push Notifications
-- Sunrise & Sunset
-- Multi Language
-- Theme Switcher
-- Weather Alerts
-- Charts
-- PWA Support
-- Offline Mode
+> 🌎 Global Weather Search
+
+> ⚡ Real-Time API Integration
+
+> 🎨 Premium Glassmorphism UI
+
+> 🌙 Dark Theme Design
+
+> 📱 Responsive Layout
+
+> 🔐 Secure Authentication
+
+> 🚀 High Performance
+
+---
+
+# ⭐ Support
+
+If you like this project, don't forget to give it a ⭐ on GitHub.
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting this repository!
+## 💙 Connect • Explore • Build
 
-Made with ❤️ using **React • TypeScript • Tailwind CSS**
+<img src="https://img.shields.io/badge/Made%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 
-### Happy Coding 🚀
+<img src="https://img.shields.io/badge/Powered%20by-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F4C81,100:2563EB"/>
+<img src="https://img.shields.io/badge/Styled%20with-Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<br><br>
+
+### 🌤️ Weather Application
+
+#### Made with ❤️ for Developers
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,50:111827,100:2563EB"/>
 
 </div>
