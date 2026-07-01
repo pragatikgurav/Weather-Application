@@ -144,31 +144,8 @@ Built using **React + TypeScript + Tailwind CSS**, the application offers a smoo
 
 ---
 
-# 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,html,css,javascript,nodejs,git,github,vscode"/>
-
-</div>
-
 ---
 
-# 🛠 Built With
-
-| Technology | Description |
-|------------|-------------|
-| ⚛ React | Frontend Framework |
-| 🔷 TypeScript | Type Safety |
-| ⚡ Vite | Build Tool |
-| 🎨 Tailwind CSS | Styling |
-| 🌦 Weather API | Weather Data |
-| 🔄 Axios | API Requests |
-| 🔐 Authentication | User Login |
-| 🗂 Git | Version Control |
-| ☁ GitHub | Repository Hosting |
-
----
 
 # 📂 Project Structure
 
@@ -278,18 +255,6 @@ npm run dev
 If you like this project, don't forget to give it a ⭐ on GitHub.
 
 ---
-
-<div align="center">
-
-## 💙 Connect • Explore • Build
-
-<img src="https://img.shields.io/badge/Made%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Powered%20by-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Styled%20with-Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-<br><br>
 
 ### 🌤️ Weather Application
 
